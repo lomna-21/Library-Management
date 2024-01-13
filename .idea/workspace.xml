@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93d49a6-7652-408d-8d80-1679f12e1108" name="Changes" comment="Sprinboot app commit" />
+    <list default="true" id="b93d49a6-7652-408d-8d80-1679f12e1108" name="Changes" comment="Library Manager">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/LibraryManagement/Utils/CacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/LibraryManagement/Utils/CacheConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,12 +124,20 @@
       <option name="project" value="LOCAL" />
       <updated>1703533111562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Library Manager">
+      <created>1703965454480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703965454480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprinboot app commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprinboot app commit" />
+    <MESSAGE value="Library Manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library Manager" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
